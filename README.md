@@ -47,7 +47,7 @@ FULL JOIN feecategory AS f
 ON b.id=f.id;
 
 
-
+First Five Print From Table: 
 
 SELECT * FROM branch ORDER BY ID LIMIT 5;
 
