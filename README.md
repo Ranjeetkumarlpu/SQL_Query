@@ -1,5 +1,9 @@
 # SQL_Query
- <H2>Link : https://www.sqltutorial.org/ </H2>
+ <H2>Link : https://www.sqltutorial.org/
+ 
+ https://www.geeksforgeeks.org/sql-query-to-find-the-sum-of-all-values-in-a-column/?ref=rp
+ 
+ </H2>
  
  <H2>JOIN</H2>
  SQL JOIN : 
