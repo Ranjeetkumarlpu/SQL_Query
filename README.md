@@ -56,7 +56,12 @@ SELECT b.id,b.branch_name,
  INNER JOIN feecategory AS f
  ON b.id=f.id;
  <br>
-
+ 
+ <h2>Source Join Link:</h2>
+ https://www.youtube.com/watch?v=LlCURXIdKo8
+ 
+<br>
+ 
 First Five Print From Table: 
 
 SELECT * FROM branch ORDER BY ID LIMIT 5;
