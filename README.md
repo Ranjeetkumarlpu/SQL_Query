@@ -46,6 +46,16 @@ FROM branch AS b
 FULL JOIN feecategory AS f 
 ON b.id=f.id;
 
+ <br>
+ Inner Join :
+ 
+ 
+SELECT b.id,b.branch_name,
+ f.id,f.fee_category 
+ FROM branch AS b 
+ INNER JOIN feecategory AS f
+ ON b.id=f.id;
+ <br>
 
 First Five Print From Table: 
 
